@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\obj\Debug\ConsoleApp assisment2.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\obj\Debug\ConsoleApp assisment2.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\obj\Debug\ConsoleApp assisment2.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\bin\Debug\ConsoleApp assisment2.exe.config
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\bin\Debug\ConsoleApp assisment2.exe
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\bin\Debug\ConsoleApp assisment2.pdb
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\obj\Debug\ConsoleApp assisment2.exe
+E:\my details\personal\c sharp\ConsoleApp assisment2\ConsoleApp assisment2\obj\Debug\ConsoleApp assisment2.pdb
